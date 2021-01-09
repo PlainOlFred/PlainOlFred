@@ -6,9 +6,11 @@
 <br/>
 
 ### 📫 How to reach me: ...
-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-- [<img align="left" alt="POF | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-- [<img align="left" alt="POF | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="POF | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="POF | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][website]
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PlainOlFred)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -28,6 +30,12 @@
 
 
 <br/>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.PlainOlFred.vercel.app/api?username=PlainOlFred&show_icons=true&hide_border=true" />
+
+</details>
 
 
 
