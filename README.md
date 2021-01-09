@@ -1,6 +1,6 @@
 ## Hello, World!  👋 
 
-### My Name is Jeremy
+### My Name is Jeremy :turtle:
 - 🔭 I’m currently working on React Redux-Sagas Application
 - 🌱 I’m currently learning Data Science 
 <br/>
@@ -53,4 +53,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
