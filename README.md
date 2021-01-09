@@ -12,9 +12,6 @@
 
 <br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PlainOlFred)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ### Languages and Tools:
 
@@ -33,13 +30,8 @@
 
 <br/>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PlainOlFred)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-<!-- [<img align="left" alt="POF | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][website]
-
-[<img align="left" alt="POF | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][website] -->
 
 
 [linkedin]: https://www.linkedin.com/in/jeremy-jones-dev/
